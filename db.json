@@ -1,4 +1,5 @@
-[
+{
+        todos: [
             {
               "id": 1,
               "title": "Todo One",
@@ -14,4 +15,5 @@
               "title": "Todo Three",
               "completed": false
             }
-]
+       ]
+}
